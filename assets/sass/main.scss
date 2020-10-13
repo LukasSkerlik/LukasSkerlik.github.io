@@ -350,11 +350,12 @@
 	.button {
 		-webkit-appearance: none;
 		display: inline-block;
+		min-width: 200px;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #1f3c88;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1081,7 +1082,7 @@
 
 	#main {
 		background: #fff;
-		
+
 		border-bottom: solid 5px #c1cac5;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
@@ -1652,3 +1653,6 @@
 	#centered{
 		text-align: center;
 	}
+	.Lukasmove{
+		margin-top: 5px;
+	  }

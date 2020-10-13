@@ -1597,11 +1597,12 @@ button,
 .button {
   -webkit-appearance: none;
   display: inline-block;
+  min-width: 200px;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
-  background: #b1ddab;
+  background: #1f3c88;
   color: #fff;
   border: 0;
   line-height: 1em;
@@ -2757,5 +2758,9 @@ body {
 
 #centered {
   text-align: center;
+}
+
+.Lukasmove {
+  margin-top: 5px;
 }
 /*# sourceMappingURL=main.css.map */
